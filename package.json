@@ -112,7 +112,7 @@
     "@stablexswap-libs/sdk": "https://github.com/stablexlabs/stablex-sdk.git",
     "@types/webfontloader": "^1.6.32",
     "husky": "^4.3.0",
-    "serialize-javascript": "^5.0.1",
+    "serialize-javascript": "^7.0.5",
     "webfontloader": "^1.6.28"
   },
   "hooks": {
